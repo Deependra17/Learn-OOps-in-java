@@ -1,9 +1,8 @@
 package superMethodConstructor;
 
+public class MainClass {
 
-public class MainClassForSuper {
     public static void main(String[] args) {
-        new DogType("Joseph", "BullDog");
-
+        new Breed("Tiger","White");
     }
 }
